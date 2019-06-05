@@ -1,0 +1,19 @@
+Features to be considered before buying a smartphone
+
+1. Price
+2. Brand
+3. RAM
+4. Memory
+5. Battery Capacity
+6. Screen Size
+7. Screen Features
+8. SIM Support
+9. Network Type
+10. Processor
+11. System On Chip
+12. Number Of Cameras
+13. Main Camera Resolution
+14. Front Camera Resolution
+15. Main Camera Features
+16. Market Status
+17. Operating System

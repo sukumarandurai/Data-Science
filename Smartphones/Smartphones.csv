@@ -1,0 +1,27 @@
+Model,Brand,Price,RAM,ROM,Battery Capacity,Screen Size(Inch),SIM Type,Network Type,System On Chip,Number Of Rear Cameras,Rear Camera(In Mega Pixel),Front Camera,Operating System,Rating
+Redmi Note 7 Pro,Xiaomi,"13,999",4,64,4000,6.3,Dual Sim,4G,Snapdragon 675,2,48,13,Android v9.0 (Pie),4.6
+Redmi Note 7 Pro,Xiaomi,"16,999",6,128,4000,6.3,Dual Sim,4G,Snapdragon 675,2,48,13,Android v9.0 (Pie),4.6
+Redmi Note 7S,Xiaomi,"10,999",3,32,4000,6.3,Dual Sim,4G,Snapdragon 660,2,48,13,Android v9.0 (Pie),4.6
+Redmi Note 7S,Xiaomi,"12,999",4,64,4000,6.3,Dual Sim,4G,Snapdragon 660,2,48,13,Android v9.0 (Pie),4.5
+Redmi Note 7,Xiaomi,"9,999",3,32,4000,6.3,Dual Sim,4G,Snapdragon 660,2,12,13,Android v9.0 (Pie),4.5
+Redmi Note 7,Xiaomi,"11,999",4,64,4000,6.3,Dual Sim,4G,Snapdragon 660,2,12,13,Android v9.0 (Pie),4.5
+Redmi Y3,Xiaomi,"10,999",3,32,4000,6.26,Dual Sim,4G,Snapdragon 632,2,12,32,Android v9.0 (Pie),4.3
+Redmi Y3,Xiaomi,"13,290",4,64,4000,6.26,Dual Sim,4G,Snapdragon 632,2,12,32,Android v9.0 (Pie),4
+Redmi 7,Xiaomi,"7,999",2,32,4000,6.26,Dual Sim,4G,Snapdragon 632,2,12,8,Android v9.0 (Pie),4.1
+Redmi 7,Xiaomi,"8,999",3,32,4000,6.26,Dual Sim,4G,Snapdragon 632,2,12,8,Android v9.0 (Pie),4.1
+Redmi Note 6 Pro,Xiaomi,"11,999",4,64,4000,6.26,Dual Sim,4G,Snapdragon 636,2,12,20,Android v8.1 (Oreo),4.5
+Redmi Note 6 Pro,Xiaomi,"13,999",6,64,4000,6.26,Dual Sim,4G,Snapdragon 636,2,12,20,Android v8.1 (Oreo),4.5
+Redmi 6A,Xiaomi,"6,999",2,32,3000,5.45,Dual Sim,4G,MediaTek Helio A22,1,13,5,Android v8.1 (Oreo),4.3
+Redmi 6A,Xiaomi,"6,499",2,16,3000,5.45,Dual Sim,4G,MediaTek Helio A22,1,13,5,Android v8.1 (Oreo),4.3
+Black Shark 2,Xiaomi,"49,999",12,256,4000,6.39,Dual Sim,4G,Snapdragon 855,2,48,20,Android v9.0 (Pie),NA
+Black Shark 2,Xiaomi,"39,999",6,128,4000,6.39,Dual Sim,4G,Snapdragon 855,2,48,20,Android v9.0 (Pie),NA
+Redmi Go,Xiaomi,"4,799",1,16,3000,5,Dual Sim,4G,Snapdragon 425,1,8,5,Android v8.1 (Oreo),4.3
+Redmi Go,Xiaomi,"4,799",1,8,3000,5,Dual Sim,4G,Snapdragon 425,1,8,5,Android v8.1 (Oreo),4.3
+Mi A2,Xiaomi,"15,999",6,128,3010,5.99,Dual Sim,4G,Snapdragon 660,2,20,20,Android v9.0 (Pie),4.2
+Mi A2,Xiaomi,"11,999",4,64,3010,5.99,Dual Sim,4G,Snapdragon 660,2,20,20,Android v9.0 (Pie),4.2
+Redmi 6 Pro,Xiaomi,"10,800",4,64,4000,5.84,Dual Sim,4G,Snapdragon 625,2,12,5,Android v9.0 (Pie),4.3
+Redmi 6 Pro,Xiaomi,"9,899",3,32,4000,5.84,Dual Sim,4G,Snapdragon 625,2,12,5,Android v9.0 (Pie),4.3
+Redmi 6,Xiaomi,"8,499",3,64,3000,5.45,Dual Sim,4G,MediaTek Helio P22,2,12,5,Android v9.0 (Pie),4.4
+Redmi 6,Xiaomi,"7,999",3,32,3000,5.45,Dual Sim,4G,MediaTek Helio P22,2,12,5,Android v9.0 (Pie),4.4
+Redmi Y2,Xiaomi,"8,999",3,32,3080,5.99,Dual Sim,4G,Snapdragon 625,2,12,16,Android v8.1 (Oreo),4.5
+Redmi Y2,Xiaomi,"10,999",4,64,3080,5.99,Dual Sim,4G,Snapdragon 625,2,12,16,Android v8.1 (Oreo),4.4
